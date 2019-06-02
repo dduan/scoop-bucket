@@ -1,15 +1,15 @@
 
 {
     "homepage": "https://github.com/dduan/mmm",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dduan/mmm/releases/download/v0.1.1/mmm-v0.1.1-x86_64-pc-windows-msvc.zip",
-            "hash": "d329f920c47204b39af9db574eaa72c65a3d357af7c6bad500f17da3ba092860"
+            "url": "https://github.com/dduan/mmm/releases/download/v0.1.2/mmm-v0.1.2-x86_64-pc-windows-msvc.zip",
+            "hash": "eda2e417da18d3c41de5424b08a80853dde79d8401255501b4427b32036ddf2d"
         },
         "32bit": {
-            "url": "https://github.com/dduan/mmm/releases/download/v0.1.1/mmm-v0.1.1-i686-pc-windows-msvc.zip",
-            "hash": "4ccde25147b3c1d3b358b6fa84bfe8767e3cb583b7f65f0b5ed507bd1202dc41"
+            "url": "https://github.com/dduan/mmm/releases/download/v0.1.2/mmm-v0.1.2-i686-pc-windows-msvc.zip",
+            "hash": "de7c42e9a4d8b06238a56ebbf07842b41a3e9d3fa8684f4c35426918188f87fb"
         }
     },
     "bin": "mmm.exe",
