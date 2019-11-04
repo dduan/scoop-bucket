@@ -1,15 +1,15 @@
 
 {
     "homepage": "https://github.com/dduan/tre",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dduan/tre/releases/download/v0.2.1/tre-v0.2.1-x86_64-pc-windows-msvc.zip",
-            "hash": "76038e3fed2b6726810489ecb57813504c4c0a20315499772839db8f9fc36f4c"
+            "url": "https://github.com/dduan/tre/releases/download/v0.2.2/tre-v0.2.2-x86_64-pc-windows-msvc.zip",
+            "hash": "32f908fed0bd431cc4c472dd8a9422ce503350390b6fcf291950a18a024c4323"
         },
         "32bit": {
-            "url": "https://github.com/dduan/tre/releases/download/v0.2.1/tre-v0.2.1-i686-pc-windows-msvc.zip",
-            "hash": "e0257e0bd309c3f59cca701ec44ca2e9a8c9c178ebb47d2c0b402011683b2495"
+            "url": "https://github.com/dduan/tre/releases/download/v0.2.2/tre-v0.2.2-i686-pc-windows-msvc.zip",
+            "hash": "55b53120cf86302f4ae202a30dcef37156e944c94740fb78f9e9b099bcb7093b"
         }
     },
     "bin": "tre.exe",
